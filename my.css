@@ -12,6 +12,8 @@ body{
 a {
 	color: #00C000;
 }
+a:hover {text-shadow: 1px 1px 2px black, 0 0 1em red;}
+
 /* .deb {border: thin dashed red;}  */
 .deb {border: thin solid green;}
 #wind {
@@ -60,8 +62,3 @@ h3, h4 {text-align: center; padding: 10px;}
 
 
 /* ----------------------------- */
-
-
-
-
-
